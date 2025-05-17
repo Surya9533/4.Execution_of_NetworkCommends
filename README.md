@@ -34,13 +34,15 @@ This commands includes
 ![image](https://github.com/user-attachments/assets/8a765a89-13d4-42c4-88e2-9b9e98d152fa)
 
 ### ipconfig
-![alt text](ipconfig.png)
+![image](https://github.com/user-attachments/assets/7ec6f063-158d-4f2e-9dd7-ab7f29d5ff52)
+
 
 ### ftp
 ![image](https://github.com/user-attachments/assets/49f028bf-6f6f-4291-9cdd-660c0ef245b4)
 
 ### netstat
-![alt text](netstat.png)
+![image](https://github.com/user-attachments/assets/6fb75709-fa17-4a2e-add7-67b47b9f3ba2)
+
 
 ### nslookup
 ![image](https://github.com/user-attachments/assets/d4ec54c1-a33b-41af-b43a-78acf923c538)
